@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+@font-face {font-family: notoBK; src: url('../font/NotoSansKR-Black.otf');}
+@font-face {font-family: notoB; src: url('../font/NotoSansKR-Bold.otf');}
+@font-face {font-family: notoM; src: url('../font/NotoSansKR-Medium.otf');}
+@font-face {font-family: notoR; src: url('../font/NotoSansKR-Regular.otf');}
+@font-face {font-family: notoDL; src: url('../font/NotoSansKR-DemiLight.otf');}
+@font-face {font-family: notoL; src: url('../font/NotoSansKR-Light.otf');}
+@font-face {font-family: notoT; src: url('../font/NotoSansKR-Thin.otf');}
+
+@font-face {font-family: digital; src: url('../font/Digital-7q.ttf');}
