@@ -3,7 +3,8 @@
 [Demo](http://leesq.dothome.co.kr/gshock/index.html)
 
 
-#### 바닐라 자바스크립트
+#### 제이쿼리, 자바스크립트
+ * jQuery
  * JavaScript
  * CSS3
  * HTML5
